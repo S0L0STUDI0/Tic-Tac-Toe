@@ -6,7 +6,7 @@
 #  |_||_| |_____/ \___/|_|\___/_____/ \__|\__,_|\__,_|_|\___/     
 
 
-print('Tic-Tac-Toe Game by #SoloStudio')                                
+print('Tic-Tac-Toe, Game by #SoloStudio')                                
 print('---------')
 def print_board(board):
     for row in board:
